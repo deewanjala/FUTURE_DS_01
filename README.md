@@ -5,7 +5,6 @@
 **Track:** Data Science & Analytics (Task 1)
 
 
-
 ## 📌 Task Overview
 Analyze **e-commerce data** to identify:
 - Best-selling products  
@@ -35,7 +34,6 @@ Analyze **e-commerce data** to identify:
 - **Visualization:** Power BI visuals & screenshots, Python plots (optional)  
 
 
-
 ## 📂 Repository Structure
 FUTURE_DS_01/
 ├── data/ # raw and cleaned datasets (CSV from Kaggle)
@@ -47,10 +45,12 @@ FUTURE_DS_01/
 
 
 ## 🔎 Insights (to be updated after analysis)
-- **Top Product Categories:** e.g., [to be filled after analysis]  
-- **Revenue Trends:** e.g., [to be filled after analysis]  
-- **Seasonality:** e.g., [to be filled after analysis]  
-- **Geographical Trends:** e.g., [to be filled after analysis]  
+- **Top Product Categories:** [to be filled after analysis]  
+- **Revenue Trends:** [to be filled after analysis]  
+- **Seasonality:** [to be filled after analysis]  
+- **Geographical Trends:** [to be filled after analysis]  
+
+*(This section will be updated once the analysis and dashboard are completed.)*
 
 
 
@@ -64,8 +64,6 @@ FUTURE_DS_01/
 
 ## 📢 Internship Note
 This project is part of my **Future Interns – Data Science & Analytics Internship (Sep–Oct 2025)**.  
-Follow my journey on LinkedIn → [@Wanjala Diana](https://www.linkedin.com/in/wanjala-diana/
-)  
-
-
+Follow my journey on LinkedIn → [@Wanjala Diana](https://www.linkedin.com/in/wanjala-diana/)  
+Tag: **#futureinterns**
 
